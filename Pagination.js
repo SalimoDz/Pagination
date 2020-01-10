@@ -1,4 +1,5 @@
 ```javascript
+
 $(document).ready(function ($) {
 
 var getUrl = window.location;
@@ -271,4 +272,5 @@ var url = $(location).attr('href'),
 	} // END OF ELSE STATEMENT (LAST_PART = PAGES NUMBER)
   
   });
-  ```
+
+```
